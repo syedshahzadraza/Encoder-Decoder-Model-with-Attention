@@ -1,0 +1,2 @@
+# machine_translation_french_english
+Neural machine translation with attention
