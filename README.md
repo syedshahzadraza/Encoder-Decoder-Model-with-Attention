@@ -2,12 +2,8 @@
 
 @author: Syed Shahzad Raza
 
----
-
 <h1>Table of Contents<span class="tocSkip"></span></h1>
 <div class="toc"><ul class="toc-item"><li><span><a href="#Project-Statement" data-toc-modified-id="Project-Statement-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Project Statement</a></span><ul class="toc-item"><li><span><a href="#Project-Overview" data-toc-modified-id="Project-Overview-1.1"><span class="toc-item-num">1.1&nbsp;&nbsp;</span>Project Overview</a></span></li><li><span><a href="#Use-Case" data-toc-modified-id="Use-Case-1.2"><span class="toc-item-num">1.2&nbsp;&nbsp;</span>Use Case</a></span></li><li><span><a href="#Data-Acquisition" data-toc-modified-id="Data-Acquisition-1.3"><span class="toc-item-num">1.3&nbsp;&nbsp;</span>Data Acquisition</a></span></li></ul></li><li><span><a href="#Technology-Choice" data-toc-modified-id="Technology-Choice-2"><span class="toc-item-num">2&nbsp;&nbsp;</span>Technology Choice</a></span></li><li><span><a href="#Model-Definition" data-toc-modified-id="Model-Definition-3"><span class="toc-item-num">3&nbsp;&nbsp;</span>Model Definition</a></span></li><li><span><a href="#References" data-toc-modified-id="References-4"><span class="toc-item-num">4&nbsp;&nbsp;</span>References</a></span></li></ul></div>
-
----
 
 ## Project Statement
 The objective of this project is to train a seq2seq model (an encoder-decoder model with attention) for machine translation.
