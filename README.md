@@ -1,3 +1,5 @@
+![Banner](Banner.png "RazaAnalytics.com - @author: Syed Shahzad Raza")
+
 # Project: Encoder-Decoder Model with Attention for Neural Machine Translation
 
 @author: Syed Shahzad Raza
