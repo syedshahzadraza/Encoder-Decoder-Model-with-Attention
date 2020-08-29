@@ -1,4 +1,4 @@
-[![Syed Shahzad Raza](https://razaanalytics.com/images/banner.png "Syed Shahzad Raza")](https://www.linkedin.com/in/syed-shahzad-raza/ "Syed Shahzad Raza")
+[![Syed Shahzad Raza](https://sigma.stream/images/banner.png "Syed Shahzad Raza")](https://www.linkedin.com/in/syed-shahzad-raza/ "Syed Shahzad Raza")
 
 # Project: Encoder-Decoder Model with Attention for Neural Machine Translation
 
